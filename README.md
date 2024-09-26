@@ -4,6 +4,7 @@ The Financial Forum Application is an online platform built using the Django fra
 
 ## Video Demo:  
 [Finance Forum](https://youtu.be/Eq32tfheDWo)
+[Live Application](https://www.expertbizforum.com/)
 
 ## Application Overview:
 
